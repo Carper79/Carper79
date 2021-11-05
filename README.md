@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1> About Me </h1>
+40 something, caffeine driven, book worm and lover of words, single, snow hating Canadian. 
+<b>Pronouns: They/them </b> <br>
+ 
+- 🔭 I’m currently teaching myself to code 
+- 🌱 I’m currently also learning French. 
+- 📫 How to reach me: [Twitter](https://twitter.com/_thewordywitch) 
+<br><br>
 
 <!--
 **Carper79/Carper79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
