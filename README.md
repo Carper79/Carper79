@@ -1,10 +1,10 @@
 <h1> About Me </h1>
-40 something, caffeine driven, book worm and lover of words, single, snow hating Canadian. 
+40 something, caffeine driven, book worm and lover of words, single, snow hating Canadian. <br>
 <b>Pronouns: They/them </b> <br>
  
-- 🔭 I’m currently teaching myself to code 
+- 🔭 I’m currently teaching myself to code and working through the admission process for a boot camp. 
 - 🌱 I’m currently also learning French. 
-- 📫 How to reach me: [Twitter](https://twitter.com/_thewordywitch) 
+- 
 <br><br>
 
 <!--
